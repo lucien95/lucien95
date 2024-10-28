@@ -1,5 +1,8 @@
 ## Hi 👋 I am Lucien!!!
 
+![lucientanyi-github-profile-display](https://github.com/user-attachments/assets/cab03ce5-1c2b-41ee-888d-57b18b1687d4)
+
+
 ## 💻 Tech Stack
 
 ### 🚀 Cloud Providers
