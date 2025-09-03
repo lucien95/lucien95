@@ -1,4 +1,4 @@
-# Hey there, I'm Lucien Tanyi! 👋
+# Hey there, I'm LT 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2E9EF7&width=435&lines=Cloud+Operations+Engineer;AWS+%7C+GCP+%7C+Terraform+Expert;DevSecOps+%7C+Python+%7C+Kubernetes;Building+Enterprise+Cloud+Infrastructure)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ltcloudops&label=Profile%20views&color=0e75b6&style=flat)
@@ -95,17 +95,8 @@ module "multi_cloud_foundation" {
 </table>
 
 ### 🚀 Infrastructure as Code & Automation
-```hcl
-# Example: Reusable Terraform Module Structure
-module "multi_account_foundation" {
-  source = "./modules/aws-control-tower"
-  
-  organizational_units = var.organizational_units
-  guardrails          = var.security_guardrails
-  compliance_tags     = var.mandatory_tags
-  backup_policies     = var.backup_configuration
-}
-```
+
+https://1drv.ms/i/c/671c3d33281649c9/EQn2V-Qk8ehJslH1DJeLC3IBtaZ-SwK1G7mu2A9ZKEoTIA?e=cqcZy4
 
 - 🏗️ **Terraform Excellence**: 50+ reusable modules for AWS/GCP
 - 🔄 **GitHub Actions**: End-to-end CI/CD pipelines
