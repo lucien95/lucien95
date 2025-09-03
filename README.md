@@ -95,8 +95,17 @@ module "multi_cloud_foundation" {
 </table>
 
 ### 🚀 Infrastructure as Code & Automation
-
-https://1drv.ms/i/c/671c3d33281649c9/EQn2V-Qk8ehJslH1DJeLC3IBtaZ-SwK1G7mu2A9ZKEoTIA?e=cqcZy4
+```hcl
+# Example: Reusable Terraform Module Structure
+module "multi_account_foundation" {
+  source = "./modules/aws-control-tower"
+  
+  organizational_units = var.organizational_units
+  guardrails          = var.security_guardrails
+  compliance_tags     = var.mandatory_tags
+  backup_policies     = var.backup_configuration
+}
+```
 
 - 🏗️ **Terraform Excellence**: 50+ reusable modules for AWS/GCP
 - 🔄 **GitHub Actions**: End-to-end CI/CD pipelines
