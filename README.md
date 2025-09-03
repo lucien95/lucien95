@@ -286,10 +286,10 @@ Innovation & R&D          ██░░░░░░░░░░░░░░░░
 <summary>📊 Detailed Metrics & Contributions</summary>
 
 ### 🔥 Recent Contributions
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ltcloudops&theme=tokyo-night&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucien95&theme=tokyo-night&hide_border=true)
 
 ### 🏆 GitHub Achievements
-![Achievements](https://github-profile-trophy.vercel.app/?username=ltcloudops&theme=tokyonight&no-frame=true&column=7)
+![Achievements](https://github-profile-trophy.vercel.app/?username=lucien95&theme=tokyonight&no-frame=true&column=7)
 
 ### 📈 Coding Activity
 <!--START_SECTION:waka-->
