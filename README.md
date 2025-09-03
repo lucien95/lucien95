@@ -1,89 +1,94 @@
-<!-- Header with DevOps Infinity GIF -->
+<!-- Cloud Logos -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91545890/191323318-3f181d5a-1e7e-42dd-84ed-36f43da18e90.gif" width="500" alt="DevOps Infinity Loop">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="56" alt="AWS Logo"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="56" alt="GCP Logo"/>
+</p>
+
+<!-- Animated DevOps Loop (GitHub-hosted for reliability) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655594-55f3cf79-5b8d-4f0e-a8f2-9f06f43ab5b7.gif" width="520" alt="DevOps Infinity Loop" />
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/lucien95">Lucien Tanyi</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevSecOps+%7C+Cloud+Engineer;AWS+%26+GCP+Specialist;Infrastructure+Automation+with+Terraform;CI%2FCD+%7C+SRE+%7C+Kubernetes" alt="Typing SVG" />
+  <a href="https://www.cloudwithlucien.com/"><img src="https://img.shields.io/badge/Portfolio-cloudwithlucien.com-1f6feb?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://github.com/lucien95"><img src="https://img.shields.io/badge/GitHub-lucien95-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/lucien-tanyi/"><img src="https://img.shields.io/badge/LinkedIn-Lucien%20Tanyi-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucien95&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/lucien95?label=Followers&style=social" alt="GitHub Followers" />
-  <a href="https://www.linkedin.com/in/lucien-tanyi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding DevOps">
-</p>
-
-- 🔧 **DevSecOps & Cloud Engineer** with 8 years of experience in **AWS** and **GCP**  
-- 🛠️ Expert in **Infrastructure as Code (Terraform, CloudFormation, Ansible)**  
-- ☸️ Proficient in **Kubernetes (EKS, GKE, OpenShift)** with Helm, Docker, and GitOps  
-- 🔐 Security-first mindset with tools like **SonarQube, Trivy, Checkov, GuardDuty, Inspector**  
-- 📊 Strong background in **monitoring & observability**: CloudWatch, Prometheus, Grafana, Datadog, Splunk  
-- 🚀 Proven record of **automation at scale**, server decommission workflows, and CI/CD pipelines (Jenkins, GitHub Actions, ArgoCD)  
+- 🔧 **DevSecOps & Cloud Engineer** with strong real-world delivery in **AWS** and **GCP**
+- 🛠️ **Infrastructure as Code** specialist (Terraform first; Ansible/CloudFormation where needed)
+- ☸️ **Kubernetes** (EKS/GKE/OpenShift), Helm, Docker, GitOps automation
+- 🔐 Security embedded: SonarQube, Trivy, Checkov, GuardDuty, Inspector, Vault/Secret Manager
+- 📊 Observability: CloudWatch, GCP Monitoring, Prometheus, Grafana, Datadog, Splunk
+- 🚀 Love building **reusable Terraform modules**, clean CI/CD, and incident-ready monitoring
 
 ---
 
-## 🏆 Recognition & Certifications
+## 🏆 Certifications (badges)
 
-- 🥇 **AWS SysOps Administrator**  
-- 🥇 **AWS DevOps Engineer – Professional**  
-- 🥇 **HashiCorp Terraform Associate**  
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/ce/f5/cef5960a-2c68-4f7a-a802-1cf5b6d23e9d/AWS-SysOps-Administrator-Associate.png" width="110" alt="AWS SysOps Administrator Associate" />
+  &nbsp;
+  <img src="https://images.credly.com/size/340x340/images/ee/f0/eef093cf-97e8-4c16-a0d2-7e6af6b4ec9a/AWS-DevOps-Engineer-Professional.png" width="110" alt="AWS DevOps Engineer Professional" />
+  &nbsp;
+  <img src="https://images.credly.com/size/340x340/images/2f/7f/2f7f3d43-463a-4c3b-bd0c-3c5e84d62693/Google_Cloud_Professional_DevOps_Engineer.png" width="110" alt="Google Cloud Professional DevOps Engineer" />
+  &nbsp;
+  <img src="https://images.credly.com/size/340x340/images/f0/f0/f0f8f88c-2a58-4a3f-8f3d-c20d67af6255/hashicorp-certified-terraform-associate.png" width="110" alt="HashiCorp Terraform Associate" />
+</p>
 
 ---
 
 ## 💼 Core Competencies
 
-### ☁️ Cloud Security & Compliance
-- NACLs, Security Groups, AWS Firewall Manager, Shield, Inspector, KMS, GuardDuty  
-- Microsoft Sentinel, Tenable, AWS Macie  
+### ☁️ AWS & GCP Infrastructure
+- Multi-account/Org patterns, Control Tower & org policies, org-level IAM
+- VPC, VPN/Interconnect, NAT, Load Balancers, Cloud Armor/WAF
+- Compute stacks (EC2/GCE, ASG/MIG), storage patterns (S3/GCS, lifecycle, encryption)
+- DR & backup (AWS Backup, GCP DR patterns)
 
-### 🛠️ Automation & IaC
-- Terraform (60+ reusable modules), CloudFormation, Pulumi, Ansible  
-- CI/CD pipelines with Jenkins, GitHub Actions, GitLab, Bitbucket, ArgoCD  
-- Automated server decommission workflows integrated with ServiceNow  
+### 🛠️ Infrastructure as Code
+- **Terraform**: 60+ reusable modules (networking, compute, IAM, monitoring)
+- Pipelines with **GitHub Actions/Jenkins/ArgoCD**
+- Secret Manager / SSM Parameter Store, environment promotion, plan/apply guards
 
-### ☸️ Containers & Orchestration
-- Kubernetes (EKS, GKE, OpenShift), Helm, Docker Compose, ECS  
-- Horizontal Pod Autoscaling (HPA), workload optimization  
+### ☸️ Containers & Platform
+- **Kubernetes**: EKS/GKE/OpenShift; Helm, HPA, node pools, IRSA/Workload Identity
+- Service mesh & ingress, policy & governance, image supply chain
 
-### 📊 Monitoring & Observability
-- Prometheus + Grafana, AWS CloudWatch, Dynatrace, Turbonomic, Splunk, Datadog  
-- OpenTelemetry for distributed tracing  
-- SLO/error budget tracking  
+### 🔐 DevSecOps
+- Scanning (Trivy, Checkov, SonarQube), CVE management (Inspector/Nessus/Tenable)
+- Vault, AWS Parameter Store, GCP Secret Manager; KMS/CMEK; policy as code
 
-### 🌩️ Migration & DR
-- AWS DMS, RDS & Aurora migrations, VMware Cloud, AWS Backup, AWS MGN  
-- Multi-region disaster recovery with automated failover  
-
-### 💻 Programming & Scripting
-- Python (Boto3 automation), Bash/Shell, Groovy, YAML, JSON, SQL, PowerShell  
+### 📊 Observability & SRE
+- Prometheus/Grafana, CloudWatch, GCP Monitoring
+- Uptime checks, SLOs, burn-rate alerts, PagerDuty + email channels (Terraform-managed)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (logos)
 
 <p align="center">
   <!-- Clouds -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  
-  <!-- Infra -->
+  <!-- IaC -->
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-  
   <!-- Containers -->
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  
   <!-- CI/CD -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -105,31 +110,38 @@
 
 | Role / Project | Highlights | Tools & Impact |
 |----------------|------------|----------------|
-| **DevSecOps Engineer – McDonald’s (2024–Present)** | Built GitOps pipelines with reusable Terraform modules; Kubernetes clusters with autoscaling; integrated SonarQube/Trivy/Checkov into CI/CD; observability with Prometheus + Grafana + OpenTelemetry | AWS, Terraform, EKS, Helm, GitHub Actions, ServiceNow |
-| **Cloud/DevOps Engineer – Zara Inc (2022–2023)** | CI/CD with Jenkins; AWS Control Tower for 150 accounts; optimized costs by 40%; achieved 95% config consistency with Ansible roles | Jenkins, Ansible, AWS Control Tower, Grafana |
-| **AWS Cloud Engineer – Field Nation (2019–2022)** | Automated multi-tier app deployments with Terraform; migrated 80+ servers & 20TB to AWS; enforced S3 encryption and WAF | AWS S3, EC2, Terraform, Systems Manager |
-| **Cloud Engineer – Zalando (2016–2019)** | Supported AWS fleet at scale; cut transfer costs 95% with DataSync; migrated Oracle DB to RDS with 30% performance gains | AWS S3, RDS, DataSync |
-| **AWS Cloud Integration Engineer – Precis Digital (Internship)** | Reduced latency with CloudFront/ElastiCache; enabled CloudTrail log validation; enforced encryption policies | AWS CloudFront, ElastiCache, KMS |
+| **DevSecOps Engineer – McDonald’s (2024–Present)** | GitOps pipelines, reusable Terraform modules, EKS autoscaling, integrated SonarQube/Trivy/Checkov, Prometheus+Grafana+OTel | AWS, Terraform, EKS, Helm, GitHub Actions, ServiceNow |
+| **Cloud/DevOps Engineer – Zara Inc (2022–2023)** | Jenkins CI/CD, AWS Control Tower for 150 accounts, 40% cost optimization, 95% config consistency via Ansible | Jenkins, Ansible, AWS Control Tower, Grafana |
+| **AWS Cloud Engineer – Field Nation (2019–2022)** | Multi-tier IaC deployments, 80+ server migration, S3 encryption at scale, WAF hardening | AWS S3, EC2, Terraform, Systems Manager |
+| **Cloud Engineer – Zalando (2016–2019)** | At-scale AWS ops, 95% transfer cost reduction with DataSync, Oracle→RDS migration (+30% perf) | AWS S3, RDS, DataSync |
+| **AWS Cloud Integration Engineer – Precis Digital (Intern)** | Lowered latency via CloudFront/ElastiCache, CloudTrail integrity validation, encryption policies | CloudFront, ElastiCache, KMS |
 
 ---
 
 ## 🌱 Current Focus
-- Advanced Terraform wrappers & multi-cloud modules (AWS + GCP)  
-- Next-gen observability with OpenTelemetry  
-- FinOps-driven cloud cost governance  
-- Zero-trust IAM across AWS/GCP  
+- Advanced Terraform wrappers (AWS/GCP) & multi-env pipelines  
+- OpenTelemetry + SLOs for next-gen observability  
+- FinOps governance for AWS/GCP  
+- Zero-trust IAM across clouds  
 
 ---
 
 ## 🎓 Education
-**Bachelor of Technology in Computer Science – University of Buea**  
+**Bachelor of Technology in Computer Science – University of Buea**
 
 ---
 
-## 🤝 Let’s Connect!
+## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/lucien95"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/lucien-tanyi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:lucientanyitanyi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.cloudwithlucien.com/"><img src="https://img.shields.io/badge/Portfolio-cloudwithlucien.com-1f6feb?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://github.com/lucien95"><img src="https://img.shields.io/badge/GitHub-lucien95-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/lucien-tanyi/"><img src="https://img.shields.io/badge/LinkedIn-Lucien%20Tanyi-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
+
+<!--
+If you ever replace the GIF:
+1) Drag-and-drop your GIF into any GitHub Issue/PR comment box.
+2) Copy the "user-images.githubusercontent.com/..." link GitHub generates.
+3) Replace the DevOps GIF src above with your new link.
+-->
