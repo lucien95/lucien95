@@ -1,4 +1,4 @@
-# Hey there, I'm LT 👋
+# Hey there, I'm Lucien Tanyi 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2E9EF7&width=435&lines=Cloud+Operations+Engineer;AWS+%7C+GCP+%7C+Terraform+Expert;DevSecOps+%7C+Python+%7C+Kubernetes;Building+Enterprise+Cloud+Infrastructure)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ltcloudops&label=Profile%20views&color=0e75b6&style=flat)
@@ -61,6 +61,7 @@ module "multi_cloud_foundation" {
   tags = local.enterprise_tags
 }
 ```
+![Demo](https://user-images.githubusercontent.com/1234567/abcdef.gif)
 
 - 🏗️ **Terraform Excellence**: 100+ production modules for AWS, GCP, Azure infrastructure automation
 - 🔄 **GitOps Mastery**: End-to-end CI/CD with GitHub Actions, ArgoCD, and Terraform Cloud
@@ -163,20 +164,6 @@ module "multi_account_foundation" {
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![LT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltcloudops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ltcloudops&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ltcloudops&theme=tokyonight&hide_border=true)
 
 </div>
 
