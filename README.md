@@ -1,4 +1,4 @@
-# Hey there, I'm Lucien Tanyi 👋
+# Hey there, I'm LT 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2E9EF7&width=435&lines=Cloud+Operations+Engineer;AWS+%7C+GCP+%7C+Terraform+Expert;DevSecOps+%7C+Python+%7C+Kubernetes;Building+Enterprise+Cloud+Infrastructure)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ltcloudops&label=Profile%20views&color=0e75b6&style=flat)
@@ -31,6 +31,42 @@
 ---
 
 ## 💼 Core Engineering Competencies
+
+### 🚀 Infrastructure as Code & DevOps Automation
+```hcl
+# Enterprise Terraform Architecture Example
+module "multi_cloud_foundation" {
+  source = "./modules/enterprise-foundation"
+  
+  # AWS Infrastructure
+  aws_regions              = var.primary_regions
+  aws_control_tower_config = var.aws_governance
+  
+  # GCP Infrastructure  
+  gcp_projects            = var.gcp_project_factory
+  gcp_org_policies        = var.gcp_governance
+  
+  # Multi-Cloud Networking
+  transit_gateway_config  = var.inter_cloud_routing
+  vpn_connections        = var.hybrid_connectivity
+  
+  # Security & Compliance
+  security_policies      = var.zero_trust_config
+  compliance_frameworks  = ["SOC2", "PCI-DSS", "ISO27001"]
+  
+  # Automation & GitOps
+  ci_cd_pipelines       = var.github_actions_config
+  automated_testing     = var.infrastructure_tests
+  
+  tags = local.enterprise_tags
+}
+```
+
+- 🏗️ **Terraform Excellence**: 100+ production modules for AWS, GCP, Azure infrastructure automation
+- 🔄 **GitOps Mastery**: End-to-end CI/CD with GitHub Actions, ArgoCD, and Terraform Cloud
+- 🐳 **Container Orchestration**: Kubernetes, Docker, Helm charts with automated deployment strategies
+- 🔒 **Policy as Code**: OPA/Gatekeeper for automated compliance and security policy enforcement
+- 📊 **Infrastructure Testing**: Automated testing with Terratest, Checkov, and compliance scanning
 
 ### 🌩️ Multi-Cloud Architecture & Operations
 <table>
