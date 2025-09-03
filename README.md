@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=👋+Welcome!+I'm+Lucien+Tanyi;Cloud+%26+DevSecOps+Engineer;Infrastructure+Automation+with+Terraform;AWS+%26+GCP+Specialist;Site+Reliability+Engineer;Platform+Engineering+%7C+GitOps+Advocate" alt="Typing SVG" />
+</p>
+
 <!-- Cloud Logos -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="56" alt="AWS Logo"/>
@@ -115,7 +119,7 @@
 ---
 
 ## 🎓 Education
-**Bachelor of Technology in Computer Science – University of Buea**
+**Bachelor of Technology in Computer Science – University of Bamenda**
 
 ---
 
